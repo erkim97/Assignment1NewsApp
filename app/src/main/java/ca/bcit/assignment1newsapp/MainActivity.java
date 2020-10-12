@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     public final static String KEYWORD = "";
 
@@ -20,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         Button button = findViewById(R.id.search_button);
         button.setOnClickListener(this);
+
     }
 
     @Override
