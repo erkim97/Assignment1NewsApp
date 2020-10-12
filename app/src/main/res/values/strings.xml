@@ -4,4 +4,5 @@
     <string name="student_names">Sehyung Kim, Daniil Molchanov</string>
     <string name="search_prompt">Enter a keyword to find news</string>
     <string name="search_button_text">Search</string>
+    <string name="search_results_header">News Results</string>
 </resources>
