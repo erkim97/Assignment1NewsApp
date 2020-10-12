@@ -1,8 +1,23 @@
 <resources>
-    <string name="app_name">COMP-3717-Android-Assignment1</string>
+    <string name="app_header">COMP3717 Asn1 News App</string>
     <string name="search_hint">Enter a Keyword</string>
     <string name="student_names">Sehyung Kim, Daniil Molchanov</string>
     <string name="search_prompt">Enter a keyword to find news</string>
     <string name="search_button_text">Search</string>
     <string name="search_results_header">News Results</string>
+
+    <string name="placeholder_title">Placeholder Title</string>
+    <string name="image_content_description">Image Content Description</string>
+
+    <string name="label_source">Source:</string>
+    <string name="placeholder_source">Placeholder Source</string>
+    <string name="label_author">Author: </string>
+    <string name="placeholder_author_name">Placeholder Author</string>
+    <string name="label_publishedAt">Published At:</string>
+    <string name="placeholder_publish_date">Placeholder Publish Date</string>
+    <string name="label_url">URL:</string>
+    <string name="placaeholder_published_date">Placeholder Published Date</string>
+    <string name="label_description">Description:</string>
+    <string name="placeholder_article_body">Placeholder Article Body</string>
+    <string name="label_contents">Contents:</string>
 </resources>
