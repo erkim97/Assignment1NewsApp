@@ -15,7 +15,7 @@
             android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/article_title"
-                android:textColor="@android:color/black"
+                android:textColor="@android:color/white"
                 android:textStyle="bold"
                 android:textSize="26sp"
                 android:text="@string/placeholder_title"
@@ -58,7 +58,7 @@
                     android:layout_marginRight="8dp"/>
                 <TextView
                     android:id="@+id/article_author"
-                    android:textColor="@android:color/black"
+                    android:textColor="@android:color/white"
                     android:text="@string/placeholder_author_name"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -76,7 +76,7 @@
                     android:layout_marginRight="8dp"/>
                 <TextView
                     android:id="@+id/article_publish_date"
-                    android:textColor="@android:color/black"
+                    android:textColor="@android:color/white"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/placeholder_publish_date" />
@@ -93,7 +93,7 @@
                     android:layout_marginRight="8dp"/>
                 <TextView
                     android:id="@+id/source_url"
-                    android:textColor="@android:color/black"
+                    android:textColor="@android:color/white"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/placaeholder_published_date" />
@@ -109,7 +109,7 @@
                 android:id="@+id/article_description"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
+                android:textColor="@android:color/white"
                 android:text="@string/placeholder_article_body"
                 android:textSize="17sp"
                 android:layout_marginTop="15dp"/>
@@ -124,7 +124,7 @@
                 android:id="@+id/article_body"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@android:color/black"
+                android:textColor="@android:color/white"
                 android:text="@string/placeholder_article_body"
                 android:textSize="17sp"
                 android:layout_marginTop="15dp"/>
